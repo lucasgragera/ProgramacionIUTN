@@ -81,7 +81,10 @@ b = int(input("Ingrese otro numero: "))
 def operaciones_basicas(a, b):
     suma = (a + b)
     resta = (a - b)
-    division = (a / b)
+    if b != 0:
+        division = a / b
+    else:
+        division = None
     multiplicacion = (a * b)
     return(f"Si a {a} y {b} los sumas da como resultado: {suma}, \n si los restas: {resta}, \n si los multiplicas: {multiplicacion} \n y si los dividis: {division}")
 
