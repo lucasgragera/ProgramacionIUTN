@@ -24,7 +24,7 @@ numero1 = int(input("Ingrese el primer numero: "))
 numero2 = int(input("Ingrese el segundo numero: "))
 contador=0
 
-for i in range(numero1+1, numero2):
+for i in range(numero1, numero2+1):
     contador=contador+i
 
 print(f"La suma entre {numero1} y {numero2} es: {contador}")
