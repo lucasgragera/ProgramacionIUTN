@@ -2,18 +2,12 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
-## ✨ Estudiante  
+## Estudiante  
 - **Nombre:** Gragera, Lucas Ignacio   
 - **Comisión:** M2025-7  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos e integradores realizados durante la cursada de **Programación 1**.  
-
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
-Este es un cambio en ambas branches.
 
 **TRABAJO INTEGRADOR**
 
@@ -40,3 +34,16 @@ En la carpeta Trabajo Integrador se encuentran:
 - Archivo "Trabajo Integrador/Trabajo Integrador Programacion.pdf" con el informe del trabajo integrador
 
 Link al video del trabajo integrador: https://drive.google.com/file/d/1aDFkAMbSNdGEtaQOh8eogpfE_wxb-rM3/view
+
+
+
+
+
+
+
+📌 **Estructura del repositorio:**  
+- Cada trabajo está organizado en carpetas individuales.  
+- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
+- Se busca mantener un código limpio, ordenado y bien documentado.  
+Este es un cambio en ambas branches.
+
