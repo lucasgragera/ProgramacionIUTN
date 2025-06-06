@@ -48,7 +48,7 @@ def imprimir_arbol(arbol, nivel=0):
 # -----------------------
 
 # Crear árbol binario con números
-arbol = crear_arbol(7)
+arbol = crear_arbol(40)
 insertar_izquierda(arbol, 10)
 insertar_derecha(arbol, 9)
 insertar_izquierda(arbol[1], 1)
