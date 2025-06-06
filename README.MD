@@ -27,7 +27,7 @@ Nuestro objetivo con este trabajo integrador fue demostrar la importancia de los
 
 En la carpeta Trabajo Integrador se encuentran:
 
-- Archivo "rabajo Integrador/arbolesConListas.py" con el desarrollo practico del trabajo integrador
+- Archivo "Trabajo Integrador/arbolesConListas.py" con el desarrollo practico del trabajo integrador
 
 - Archivo "Trabajo Integrador/Link Video Trabajo Integrador Programacion.pdf" con el link del video del trabajo integrador
 
