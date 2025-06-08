@@ -111,11 +111,21 @@ print(stock_productos)
 #9) Creá una agenda donde las claves sean tuplas de (día, hora) y los valores sean eventos.
 
 agenda = {
-    ('Lunes', '09:00'): 'Reunión con equipo',
-    ('Martes', '11:00'): 'Clase de inglés',
-    ('Miércoles', '14:00'): 'Almuerzo con cliente'
+    ('lunes', '09:00'): 'Reunión con equipo',
+    ('martes', '11:00'): 'Clase de inglés',
+    ('miércoles', '14:00'): 'Almuerzo con cliente'
 }
 print(agenda)
+
+dia = input("Ingresá el día: ").lower()
+hora = input("Ingresá la hora (ej: 10:00): ")
+
+clave = (dia, hora)
+
+if clave in agenda:
+    print(f"Actividad: {agenda[clave]}")
+else:
+    print("No hay actividades programadas.")
 
 #10) Dado un diccionario que mapea nombres de países con sus capitales, construí un nuevo
 #diccionario donde:
